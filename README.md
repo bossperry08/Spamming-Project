@@ -5,4 +5,4 @@
 # Running
 	Now type "python spamming_cfs.py" to run.
 # Warning
-	The original code can only be used with my class's confession. If you want to use it with another website, you've got to change it a bit.
+	The original code can only be used with my class's confession. If you want to use it on another website, you've got to change it a bit.
